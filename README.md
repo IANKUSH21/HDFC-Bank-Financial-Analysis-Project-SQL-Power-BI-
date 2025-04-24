@@ -1,6 +1,7 @@
 # HDFC Bank Financial Analysis Project (SQL + Power BI)
 
-https://i0.wp.com/www.bms.co.in/wp-content/uploads/2015/02/HDFC-Bank-Logo.jpg
+![HDFC Bank Logo](https://i0.wp.com/www.bms.co.in/wp-content/uploads/2015/02/HDFC-Bank-Logo.jpg)
+
 
 ## 📄 Project Overview
 This project presents a comprehensive financial analysis of HDFC Bank using structured SQL queries. The dataset includes Profit & Loss, Balance Sheet, and Cash Flow statements from FY 2016 to FY 2025. The purpose of the project is to derive meaningful insights about the bank's financial health and performance over the years. Key financial metrics such as revenue, profit, operating costs, margins, tax rates, and dividends are analyzed to support decision-making and data-driven storytelling in Power BI.
